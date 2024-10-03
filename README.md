@@ -1,6 +1,3 @@
-# eds220-2024-in-class
-In-class work for the EDS 220 MEDS course.
-
 # EDS 220 In-Class Repository
 This repository hosts all the work completed in-class by Joshua Paul Cohen during the EDS 220 - *Working with Environmental Datasets* lectures.
 ## Course Information
