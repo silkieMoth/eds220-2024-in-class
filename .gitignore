@@ -1,5 +1,6 @@
 # ignore the `data` directory
 data/
+test.qmd
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
